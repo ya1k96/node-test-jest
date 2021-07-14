@@ -1,2 +1,2 @@
 ## Inicio de pruebas con jest y supertest
-<img src="./docs/screen.jpg">
+<img src="./docs/screen.JPG">
